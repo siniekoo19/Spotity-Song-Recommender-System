@@ -1,6 +1,6 @@
 # Spotity-Song-Recommender-System
 
-Our project is a content-based song recommendation system aiming to suggest songs to users based on their past preferences. Utilizing cosine similarity, the system calculates the resemblance between songs by analyzing their features. We utilized the Streamlit library in Python to develop a user-friendly web application. This application enables users to input songs they've enjoyed, and it then recommends similar songs based on content similarity.
+The project is a content-based song recommendation system aiming to suggest songs to users based on their past preferences. Utilizing cosine similarity, the system calculates the resemblance between songs by analyzing their features. We utilized the Streamlit library in Python to develop a user-friendly web application. This application enables users to input songs they've enjoyed, and it then recommends similar songs based on content similarity.
 
 
 ![logo](https://github.com/siniekoo19/Spotity-Song-Recommender-System/assets/144519238/b0448bd5-33c5-4f55-b90f-ebf34e6d5910)
