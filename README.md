@@ -36,7 +36,7 @@ The project is a content-based song recommendation system aiming to suggest song
 
 ## Acknowledgments
 
-- Thanks to [kaggel](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset) for providing the spam email dataset used in this project.
+- Thanks to [kaggel](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset) for providing dataset used in this project.
 - Special thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
 
 ## Feedback
