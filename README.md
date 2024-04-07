@@ -32,7 +32,7 @@ The project is a content-based song recommendation system aiming to suggest song
 
 ## Link for the dataset
 
-[SMS Spam Classification Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+[Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
 
 ## Acknowledgments
 
