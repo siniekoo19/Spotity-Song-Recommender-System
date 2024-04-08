@@ -11,6 +11,11 @@ The project is a content-based song recommendation system aiming to suggest song
 - **Scripts:** Python scripts designed for preprocessing data and making predictions within the WebApp for handling new data. 
 - **Models:** Saved trained models for future use or deployment.
 
+## Preview of the web application
+
+https://github.com/siniekoo19/Spotity-Song-Recommender-System/assets/144519238/cda39276-6cd5-432f-879a-ef00fee208f2
+
+
 ## 🚀 About Me
 👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Data Scientist and Data Analyst.
 
