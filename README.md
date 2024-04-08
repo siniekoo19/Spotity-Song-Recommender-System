@@ -36,6 +36,7 @@ The project is a content-based song recommendation system aiming to suggest song
 
 ## Acknowledgments
 
+- Special Thanks to [Slash Mark](https://slashmark.cloud/) for providing this Internship opportunity.
 - Thanks to [kaggel](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset) for providing dataset used in this project.
 - Special thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
 
